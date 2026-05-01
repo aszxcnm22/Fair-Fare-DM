@@ -1,0 +1,8 @@
+{
+  "name": "Thai Travel Copilot AI",
+  "description": "An intelligent assistant designed to help tourists in Thailand with real-time guidance, safety, budgeting, and navigation support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
